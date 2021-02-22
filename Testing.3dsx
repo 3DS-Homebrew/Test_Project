@@ -4,7 +4,7 @@ using namespace std;
 int main() {
   cout << "Hello there this is a test program.  \n";
   cout << "I am new to coding C++   \n";
-    cout << "I am more used to HTML5 but I am still learning C++  \n\n";
+    cout << "I am more used to HTML5 but I am still learning C++  \n";
       cout << "Coded by caydenpri44  \n";
   return 0;
 }
